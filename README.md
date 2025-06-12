@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Pursuing **Computer Science & Engineering** from **IIT BHU**  
+- 🎓 Graduated with B.Tech in **Computer Science & Engineering** from **IIT BHU**  
 - 🛠️ Building secure, cloud-native infrastructure and developer tools  
 - 🌐 Contributing to the **Kubernetes ecosystem** with a focus on **security & observability**  
 - 🧑‍💼 Former **Software Engineering Intern at Wells Fargo**, worked on intelligent automation pipelines  
